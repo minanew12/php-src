@@ -37,9 +37,6 @@ For other systems, see the [installation chapter](https://www.php.net/install).
 
 *For Windows, see [Build your own PHP on Windows](https://wiki.php.net/internals/windows/stepbystepbuild_sdk_2).*
 
-For a minimal PHP build from Git, you will need autoconf, bison, and re2c. For
-a default build, you will additionally need libxml2 and libsqlite3.
-
 On Ubuntu, you can install these using:
 
     sudo apt install -y pkg-config build-essential autoconf bison re2c \
